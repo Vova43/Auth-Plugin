@@ -1,1 +1,1 @@
-# PlusChat
+# Auth-Plugin
